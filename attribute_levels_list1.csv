@@ -1,23 +1,23 @@
-"attribute","attribute_label","level","level_numerical","image"
-"type","Կոռուպցիայի տեսակը","Պաշտոնյան կաշառք է վերցնում","type1","corruption1.jpg"
-"type","Կոռուպցիայի տեսակը","Պաշտոնյան փայեր է վերցնում","type2","corruption2.jpg"
-"type","Կոռուպցիայի տեսակը","Պաշտոնյան հանրային ռեսուրսներ է յուրացնում","type3","corruption3.jpg"
-"type","Կոռուպցիայի տեսակը","Պաշտոնյան շահեկան անօրինական պայմաններ է շնորհում ընտանիքի անդամներին","type4","corruption4.jpg"
-"type","Կոռուպցիայի տեսակը","Պաշտոնյան ծառայեցնում է հանրային ռեսուրսները իր բիզնեսի օգտին","type5","corruption5.jpg"
-"sector","Պաշտոնյայի աշխատանքի ոլորտը","Առողջապահություն","sector1","sector1.jpg"
-"sector","Պաշտոնյայի աշխատանքի ոլորտը","Կրթություն","sector2","sector2.jpg"
-"sector","Պաշտոնյայի աշխատանքի ոլորտը","Իրավապահ մարմիններ","sector3","sector3.jpg"
-"sector","Պաշտոնյայի աշխատանքի ոլորտը","Դատարաններ","sector4","sector4.jpg"
-"sector","Պաշտոնյայի աշխատանքի ոլորտը","Խորհրդարան (ԱԺ)","sector5","sector5.jpg"
-"sector","Պաշտոնյայի աշխատանքի ոլորտը","Հարկային մարմին","sector6","sector6.jpg"
-"official_rank","Պաշտոնյայի աստիճանը","Ցածր պաշտոն զբաղեցնող պաշտոնյա","official_rank1","official_rank1.jpg"
-"official_rank","Պաշտոնյայի աստիճանը","Բարձր պաշտոն զբաղեցնող պաշտոնյա","official_rank2","official_rank2.jpg"
-"size_corrupt","Կոռուպցիայի չափը","Փոքր գումար","size_corrupt1","size_corrupt1.jpg"
-"size_corrupt","Կոռուպցիայի չափը","Մեծ գումար","size_corrupt2","size_corrupt2.jpg"
-"official_use","Կոռուպցիոն միջոցների օգտագործման նպատակը","Գումարի ձեռքբերում անձնական օգտագործման համար","official_use1","official_use1.jpg"
-"official_use","Կոռուպցիոն միջոցների օգտագործման նպատակը","Գումարի ձեռքբերում քաղաքական թեկնածուների կամ կուսակցությունների համար","official_use2","official_use2.jpg"
-"act_alone","Արդյոք պաշտոնյան գործում է միայնակ","Ստացված կաշառքը իրեն է պահում","act_alone1","act_alone1.jpg"
-"act_alone","Արդյոք պաշտոնյան գործում է միայնակ","Կիսում է ստացված կաշառքը նույնաստիճան պաշտոնյաների հետ","act_alone2","act_alone2.jpg"
-"act_alone","Արդյոք պաշտոնյան գործում է միայնակ","Կիսում է ստացված կաշառքը իրենից բարձր պաշտոն զբաղեցնող պաշտոնյաների հետ","act_alone3","act_alone3.jpg"
-"official_gender","Պաշտոնյայի սեռը","Արական","official_gender1","official_gender1.jpg"
-"official_gender","Պաշտոնյայի սեռը","Իգական","official_gender2","official_gender2.jpg"
+attribute,attribute_label,level,level_numerical,image
+type,___________ ______,_________ ______ _ ________,type1,corruption1.jpg
+type,___________ ______,_________ ___ _ ______/________ _ _______,type2,corruption2.jpg
+type,___________ ______,_________ ________ __________ _ __________,type3,corruption3.jpg
+type,___________ ______,_________ __________ _____________ _ _____ ________ __________,type4,corruption4.jpg
+type,___________ ______,_________ ___________ _ ________ ___________ __ _______ _____,type5,corruption5.jpg
+sector,__________ _________ ______,________________,sector1,sector1.jpg
+sector,__________ _________ ______,__________,sector2,sector2.jpg
+sector,__________ _________ ______,________ _________,sector3,sector3.jpg
+sector,__________ _________ ______,__________,sector4,sector4.jpg
+sector,__________ _________ ______,__________ (__),sector5,sector5.jpg
+sector,__________ _________ ______,________ ______,sector6,sector6.jpg
+official_rank,__________ ________,____ ______ _________ ________,official_rank1,official_rank1.jpg
+official_rank,__________ ________,_____ ______ _________ ________,official_rank2,official_rank2.jpg
+size_corrupt,___________ ____,____ ______,size_corrupt1,size_corrupt1.jpg
+size_corrupt,___________ ____,___ ______,size_corrupt2,size_corrupt2.jpg
+official_use,___ ________ _ _________ ___________ _______ _______,_______ _______ ________ ___________ _____,official_use1,official_use1.jpg
+official_use,___ ________ _ _________ ___________ _______ _______,_______ _______ _________ ____________ ___ __________________ _____,official_use2,official_use2.jpg
+act_alone,______ _________ _______ _ _______,_______ _______ ____ _ ______,act_alone1,act_alone1.jpg
+act_alone,______ _________ _______ _ _______,______ _ _______ _______ ____________ ____________ ___,act_alone2,act_alone2.jpg
+act_alone,______ _________ _______ _ _______,______ _ _______ _______ ______ _____ ______ _________ ____________ ___,act_alone3,act_alone3.jpg
+official_gender,__________ ____,______,official_gender1,official_gender1.jpg
+official_gender,__________ ____,______,official_gender2,official_gender2.jpg
